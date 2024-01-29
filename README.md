@@ -1,4 +1,4 @@
-# Wellcome to my first Repository - MathUtil project
+# Wellcome to my  MathUtil project
 
 ## You will find in this repo:
 
